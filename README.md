@@ -1,6 +1,6 @@
 # Projeto-Foto-Celula <h1>
-        O Projeto Foto-Célula tem como objetivo montar um circuito eletroeletrônico capaz de acionar uma carga através de
-     um acionamento utilizando o LDR (Resistor Dependente de Luz).     
+           O Projeto Foto-Célula tem como objetivo montar um circuito eletroeletrônico capaz de acionar 
+        uma carga através de um acionamento utilizando o LDR (Resistor Dependente de Luz).     
 
 **1. Aula de apresentação do projeto.** <br />  
 
