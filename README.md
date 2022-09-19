@@ -4,8 +4,8 @@
 
 **1. Aula de apresentação do projeto.** <br />  
 
-![alt text](https://github.com/DaniloCS55/Projeto-Foto-Celula/blob/main/01_AulaSELAN_12_09.jpeg)
+![alt text](https://github.com/DaniloCS55/Projeto-Foto-Celula/blob/main/01_AulaSELAN_12_09.jpeg)<br /><br />
 
 **2. Aula de explicação da fórmula Tau = R * C e da entrega dos componentes para montagem do projeto .** <br />  
 
-![alt text]()
+![alt text](https://github.com/DaniloCS55/Projeto-Foto-Celula/blob/main/02_AulaSELAN_19_09.jpeg)
