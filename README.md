@@ -9,3 +9,5 @@
 **2. Aula de explicação da fórmula Tau = R * C e da entrega dos componentes para montagem do projeto .** <br />  
 
 ![alt text](https://github.com/DaniloCS55/Projeto-Foto-Celula/blob/main/02_AulaSELAN_19_09.jpeg)
+
+![alt text](https://github.com/DaniloCS55/Projeto-Foto-Celula/blob/main/Projeto%20Foto_Celula.jpeg)
