@@ -6,3 +6,10 @@
    Para simulação do projeto foi utilizado o software PROTEUS.
 
 ![alt text](https://github.com/DaniloCS55/Projeto-Foto-Celula/blob/main/Projeto%20Foto_Celula.jpeg)
+
+**2. LAYOUT FOTO CÉLULA** <br />  
+   Para elaboração do layout da Foto Célula foi utilizado o software EasyEDA.
+
+![alt text](https://github.com/DaniloCS55/Projeto-Foto-Celula/blob/main/Projeto%20Foto_Celula_Layout.jpeg)
+
+
